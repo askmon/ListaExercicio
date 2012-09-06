@@ -2,7 +2,7 @@
   associations="true" dependencies="false" nesting-relationships="true">  
   <class id="1" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Tag" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/Tag.java" binary="false">    
-    <position height="272" width="232" x="486" y="2930"/>    
+    <position height="-1" width="-1" x="333" y="3013"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
@@ -18,7 +18,7 @@
   </class>  
   <class id="3" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Usuario" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/Usuario.java" binary="false">    
-    <position height="629" width="220" x="401" y="4"/>    
+    <position height="-1" width="-1" x="369" y="317"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
@@ -27,7 +27,7 @@
   <class id="4" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Disciplina" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/Disciplina.java" 
     binary="false">    
-    <position height="340" width="254" x="422" y="2533"/>    
+    <position height="-1" width="-1" x="580" y="2406"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
@@ -68,16 +68,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="9" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.NomeDeArquivo" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/NomeDeArquivo.java" 
-    binary="false">    
-    <position height="136" width="206" x="155" y="4"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="10" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaQuestao" 
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaQuestao" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/ListaQuestao.java" 
     binary="false">    
     <position height="272" width="232" x="1482" y="673"/>    
@@ -86,7 +77,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="11" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaDeRespostas" 
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaDeRespostas" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/ListaDeRespostas.java" 
     binary="false">    
     <position height="374" width="350" x="804" y="1104"/>    
@@ -95,7 +86,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="12" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaDeExercicios" 
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaDeExercicios" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/ListaDeExercicios.java" 
     binary="false">    
     <position height="391" width="349" x="804" y="673"/>    
@@ -104,7 +95,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="13" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDeVouF" 
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDeVouF" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/QuestaoDeVouF.java" 
     binary="false">    
     <position height="238" width="295" x="1137" y="2533"/>    
@@ -113,7 +104,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="14" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Resposta" 
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Resposta" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/Resposta.java" binary="false">    
     <position height="323" width="283" x="1154" y="1688"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
@@ -121,7 +112,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="15" corner="BOTTOM_RIGHT" language="java" 
+  <class id="14" corner="BOTTOM_RIGHT" language="java" 
     name="br.usp.ime.academicdevoir.entidade.QuestaoDeSubmissaoDeArquivo" project="ListaExercicio" 
     file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/QuestaoDeSubmissaoDeArquivo.java" binary="false">    
     <position height="187" width="298" x="1472" y="2533"/>    
@@ -130,7 +121,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="16" corner="BOTTOM_RIGHT" language="java" 
+  <class id="15" corner="BOTTOM_RIGHT" language="java" 
     name="br.usp.ime.academicdevoir.entidade.PropriedadesDaListaDeRespostas" project="ListaExercicio" 
     file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/PropriedadesDaListaDeRespostas.java" binary="false">    
     <position height="170" width="280" x="834" y="1688"/>    
@@ -139,7 +130,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="17" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.TagsDaLista" 
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.TagsDaLista" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/TagsDaLista.java" 
     binary="false">    
     <position height="255" width="323" x="661" y="4"/>    
@@ -148,15 +139,15 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="18" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Turma" 
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Turma" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/Turma.java" binary="false">    
-    <position height="510" width="323" x="441" y="1104"/>    
+    <position height="-1" width="-1" x="630" y="1094"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="19" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaGerada" 
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.ListaGerada" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/ListaGerada.java" 
     binary="false">    
     <position height="476" width="274" x="1175" y="4"/>    
@@ -165,7 +156,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="20" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Administrador" 
+  <class id="19" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Administrador" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/Administrador.java" 
     binary="false">    
     <position height="85" width="206" x="174" y="673"/>    
@@ -174,7 +165,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="21" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDeTexto" 
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDeTexto" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/QuestaoDeTexto.java" 
     binary="false">    
     <position height="221" width="295" x="1810" y="2533"/>    
@@ -183,16 +174,16 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="22" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDeCodigo" 
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDeCodigo" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/QuestaoDeCodigo.java" 
     binary="false">    
-    <position height="272" width="295" x="2145" y="2533"/>    
+    <position height="-1" width="-1" x="2293" y="2417"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true"/>      
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="23" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Professor" 
+  <class id="22" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.Professor" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/Professor.java" binary="false">    
     <position height="119" width="228" x="462" y="673"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
@@ -200,7 +191,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="24" corner="BOTTOM_RIGHT" language="java" 
+  <class id="23" corner="BOTTOM_RIGHT" language="java" 
     name="br.usp.ime.academicdevoir.entidade.QuestaoDeMultiplaEscolha" project="ListaExercicio" 
     file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/QuestaoDeMultiplaEscolha.java" binary="false">    
     <position height="357" width="339" x="758" y="2533"/>    
@@ -209,7 +200,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <enumeration id="25" corner="BOTTOM_RIGHT" language="java" 
+  <enumeration id="24" corner="BOTTOM_RIGHT" language="java" 
     name="br.usp.ime.academicdevoir.entidade.EstadoDaListaDeRespostas" project="ListaExercicio" 
     file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/EstadoDaListaDeRespostas.java" binary="false">    
     <position height="136" width="268" x="834" y="2051"/>    
@@ -218,7 +209,7 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </enumeration>  
-  <class id="26" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDaLista" 
+  <class id="25" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.entidade.QuestaoDaLista" 
     project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/entidade/QuestaoDaLista.java" 
     binary="false">    
     <position height="221" width="206" x="1215" y="1104"/>    
@@ -227,496 +218,350 @@
       <operations public="true" package="true" protected="true" private="true"/>    
     </display>  
   </class>  
-  <class id="27" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.TurmasController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/TurmasController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="1765" y="215"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="28" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.DisciplinasController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/DisciplinasController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="2248" y="138"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="29" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.QuestoesDeMultiplaEscolhaController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/QuestoesDeMultiplaEscolhaController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="2846" y="147"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="30" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.QuestoesDeSubmissaoDeArquivoController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/QuestoesDeSubmissaoDeArquivoController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="3667" y="147"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="31" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.QuestoesDeCodigoController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/QuestoesDeCodigoController.java" binary="false">    
-    <position height="-1" width="-1" x="4436" y="147"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="32" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.QuestoesDeVouFController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/QuestoesDeVouFController.java" binary="false">    
-    <position height="-1" width="-1" x="5112" y="147"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="33" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.ArquivosController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/ArquivosController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="5605" y="96"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="34" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.RespostasController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/RespostasController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="6056" y="113"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="35" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.QuestoesController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/QuestoesController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="6741" y="164"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="36" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.ProfessoresController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/ProfessoresController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="7397" y="189"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="37" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.QuestoesDeTextoController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/QuestoesDeTextoController.java" binary="false">    
-    <position height="-1" width="-1" x="7995" y="147"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="38" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.AlunosController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/AlunosController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="8566" y="198"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="39" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.PasswordResetController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/PasswordResetController.java" binary="false">    
-    <position height="-1" width="-1" x="9146" y="206"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="40" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.ListasDeExerciciosController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/ListasDeExerciciosController.java" binary="false">    
-    <position height="-1" width="-1" x="10050" y="300"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="41" corner="BOTTOM_RIGHT" language="java" 
-    name="br.usp.ime.academicdevoir.controller.AdministradorController" project="ListaExercicio" 
-    file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/AdministradorController.java" binary="false">    
-    <position height="-1" width="-1" x="10903" y="138"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <class id="42" corner="BOTTOM_RIGHT" language="java" name="br.usp.ime.academicdevoir.controller.LoginController" 
-    project="ListaExercicio" file="/ListaExercicio/src/br/usp/ime/academicdevoir/controller/LoginController.java" 
-    binary="false">    
-    <position height="-1" width="-1" x="11413" y="130"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true"/>      
-      <operations public="true" package="true" protected="true" private="true"/>    
-    </display>  
-  </class>  
-  <association id="43">    
-    <end type="SOURCE" refId="18" navigable="false">      
-      <attribute id="44" name="listaDeExercicios"/>      
-      <multiplicity id="45" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="12" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="46">    
-    <end type="SOURCE" refId="23"/>    
-    <end type="TARGET" refId="3"/>  
-  </generalization>  
-  <association id="47">    
-    <end type="SOURCE" refId="8" navigable="false">      
-      <attribute id="48" name="disciplina"/>      
-      <multiplicity id="49" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="4" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="50">    
-    <end type="SOURCE" refId="23" navigable="false">      
-      <attribute id="51" name="turmas"/>      
-      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="18" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="53">    
-    <end type="SOURCE" refId="12" navigable="false">      
-      <attribute id="54" name="respostas"/>      
-      <multiplicity id="55" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="11" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="56">    
-    <end type="SOURCE" refId="15"/>    
-    <end type="TARGET" refId="8"/>  
-  </generalization>  
-  <association id="57">    
-    <end type="SOURCE" refId="6" navigable="false">      
-      <attribute id="58" name="autoCorrecao"/>      
-      <multiplicity id="59" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="5" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="60">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="61" name="estado"/>      
-      <multiplicity id="62" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="25" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="63">    
-    <bendpoint x="727" y="2533"/>    
-    <end type="SOURCE" refId="1" navigable="false">      
-      <attribute id="64" name="questoes"/>      
-      <multiplicity id="65" minimum="0" maximum="2147483647"/>    
+  <association id="26">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="27" name="questoes"/>      
+      <multiplicity id="28" minimum="0" maximum="2147483647"/>    
     </end>    
     <end type="TARGET" refId="8" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="66">    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="67" name="aluno"/>      
-      <multiplicity id="68" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="2" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="69">    
-    <bendpoint x="410" y="1688"/>    
-    <bendpoint x="410" y="2051"/>    
+  <association id="29">    
     <end type="SOURCE" refId="18" navigable="false">      
-      <attribute id="70" name="disciplina"/>      
-      <multiplicity id="71" minimum="0" maximum="1"/>    
+      <attribute id="30" name="listaQuestoes"/>      
+      <multiplicity id="31" minimum="0" maximum="2147483647"/>    
     </end>    
-    <end type="TARGET" refId="4" navigable="true"/>    
+    <end type="TARGET" refId="9" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <generalization id="72">    
-    <end type="SOURCE" refId="20"/>    
-    <end type="TARGET" refId="3"/>  
-  </generalization>  
-  <association id="73">    
+  <association id="32">    
+    <bendpoint x="727" y="2533"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="33" name="questoes"/>      
+      <multiplicity id="34" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="36" name="listaDeExercicios"/>      
+      <multiplicity id="37" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="39" name="listaDeExercicios"/>      
+      <multiplicity id="40" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
     <bendpoint x="431" y="2051"/>    
     <bendpoint x="431" y="1688"/>    
     <end type="SOURCE" refId="4" navigable="false">      
-      <attribute id="74" name="turmas"/>      
-      <multiplicity id="75" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="18" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="76">    
-    <end type="SOURCE" refId="17" navigable="false">      
-      <attribute id="77" name="listaDeExercicios"/>      
-      <multiplicity id="78" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="12" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="79">    
-    <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="80" name="listasDeRespostas"/>      
-      <multiplicity id="81" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="11" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="82">    
-    <end type="SOURCE" refId="18" navigable="false">      
-      <attribute id="83" name="professor"/>      
-      <multiplicity id="84" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="23" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="85">    
-    <end type="SOURCE" refId="10" navigable="false">      
-      <attribute id="86" name="listaGerada"/>      
-      <multiplicity id="87" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="19" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="88">    
-    <bendpoint x="1798" y="1104"/>    
-    <bendpoint x="1798" y="1688"/>    
-    <end type="SOURCE" refId="10" navigable="false">      
-      <attribute id="89" name="questao"/>      
-      <multiplicity id="90" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="8" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="91">    
-    <end type="SOURCE" refId="4" navigable="false">      
-      <attribute id="92" name="tags"/>      
-      <multiplicity id="93" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="1" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="94">    
-    <end type="SOURCE" refId="24"/>    
-    <end type="TARGET" refId="8"/>  
-  </generalization>  
-  <association id="95">    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="96" name="respostas"/>      
-      <multiplicity id="97" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="14" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="98">    
-    <end type="SOURCE" refId="18" navigable="false">      
-      <attribute id="99" name="alunos"/>      
-      <multiplicity id="100" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="2" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="101">    
-    <end type="SOURCE" refId="24" navigable="false">      
-      <attribute id="102" name="alternativas"/>      
-      <multiplicity id="103" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="7" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="104">    
-    <end type="SOURCE" refId="12" navigable="false">      
-      <attribute id="105" name="tagsDaLista"/>      
-      <multiplicity id="106" minimum="0" maximum="2147483647"/>    
+      <attribute id="42" name="turmas"/>      
+      <multiplicity id="43" minimum="0" maximum="2147483647"/>    
     </end>    
     <end type="TARGET" refId="17" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <generalization id="107">    
-    <end type="SOURCE" refId="13"/>    
-    <end type="TARGET" refId="8"/>  
-  </generalization>  
-  <generalization id="108">    
+  <association id="44">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="45" name="propriedades"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="48" name="respostas"/>      
+      <multiplicity id="49" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="50">    
     <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="51">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="52" name="questao"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="55" name="alternativas"/>      
+      <multiplicity id="56" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="58" name="listasDeRespostas"/>      
+      <multiplicity id="59" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="23"/>    
     <end type="TARGET" refId="8"/>  
   </generalization>  
-  <association id="109">    
-    <end type="SOURCE" refId="14" navigable="false">      
-      <attribute id="110" name="questao"/>      
-      <multiplicity id="111" minimum="0" maximum="1"/>    
+  <association id="62">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="63" name="listaDeExercicios"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
     </end>    
-    <end type="TARGET" refId="8" navigable="true"/>    
+    <end type="TARGET" refId="11" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="112">    
-    <bendpoint x="1184" y="673"/>    
-    <bendpoint x="1184" y="1104"/>    
-    <end type="SOURCE" refId="19" navigable="false">      
-      <attribute id="113" name="aluno"/>      
-      <multiplicity id="114" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="2" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="115">    
-    <end type="SOURCE" refId="12" navigable="false">      
-      <attribute id="116" name="turmas"/>      
-      <multiplicity id="117" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="18" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="118">    
-    <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="119" name="turmas"/>      
-      <multiplicity id="120" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="18" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="121">    
-    <end type="SOURCE" refId="12" navigable="false">      
-      <attribute id="122" name="listasGeradas"/>      
-      <multiplicity id="123" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="19" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="124">    
-    <bendpoint x="1467" y="1688"/>    
-    <end type="SOURCE" refId="26" navigable="false">      
-      <attribute id="125" name="questao"/>      
-      <multiplicity id="126" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="8" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="127">    
-    <end type="SOURCE" refId="12" navigable="false">      
-      <attribute id="128" name="questoes"/>      
-      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="26" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="130">    
+  <generalization id="65">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="66">    
     <end type="SOURCE" refId="1" navigable="false">      
-      <attribute id="131" name="disciplinas"/>      
-      <multiplicity id="132" minimum="0" maximum="2147483647"/>    
+      <attribute id="67" name="disciplinas"/>      
+      <multiplicity id="68" minimum="0" maximum="2147483647"/>    
     </end>    
     <end type="TARGET" refId="4" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="133">    
-    <end type="SOURCE" refId="19" navigable="false">      
-      <attribute id="134" name="lista"/>      
-      <multiplicity id="135" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="12" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="136">    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="137" name="propriedades"/>      
-      <multiplicity id="138" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="16" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="139">    
-    <end type="SOURCE" refId="4" navigable="false">      
-      <attribute id="140" name="questoes"/>      
-      <multiplicity id="141" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="8" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="142">    
-    <end type="SOURCE" refId="21"/>    
-    <end type="TARGET" refId="8"/>  
-  </generalization>  
-  <association id="143">    
-    <end type="SOURCE" refId="7" navigable="false">      
-      <attribute id="144" name="questao"/>      
-      <multiplicity id="145" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="146">    
+  <generalization id="69">    
     <bendpoint x="410" y="1104"/>    
     <bendpoint x="410" y="673"/>    
     <end type="SOURCE" refId="2"/>    
     <end type="TARGET" refId="3"/>  
   </generalization>  
-  <association id="147">    
+  <association id="70">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="71" name="aluno"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="74" name="lista"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="77">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="78" name="autoCorrecao"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="81" name="questoes"/>      
+      <multiplicity id="82" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="84" name="tags"/>      
+      <multiplicity id="85" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="87" name="disciplina"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="89">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="90" name="estado"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="93">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="94" name="propriedades"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="97" name="turmas"/>      
+      <multiplicity id="98" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="100" name="questao"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="103" name="turmas"/>      
+      <multiplicity id="104" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="106" name="listasGeradas"/>      
+      <multiplicity id="107" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="109" name="listaGerada"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="112" name="tagsDaLista"/>      
+      <multiplicity id="113" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <bendpoint x="410" y="1688"/>    
+    <bendpoint x="410" y="2051"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="115" name="disciplina"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <bendpoint x="1798" y="1104"/>    
+    <bendpoint x="1798" y="1688"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="118" name="questao"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="121" name="alunos"/>      
+      <multiplicity id="122" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <bendpoint x="706" y="2533"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="124" name="tags"/>      
+      <multiplicity id="125" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="126">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="127">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="128" name="respostas"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="130">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="131" name="turmas"/>      
+      <multiplicity id="132" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <bendpoint x="1184" y="673"/>    
+    <bendpoint x="1184" y="1104"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="134" name="aluno"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="137" name="professor"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="139">    
     <bendpoint x="431" y="673"/>    
     <bendpoint x="389" y="1104"/>    
     <bendpoint x="389" y="1688"/>    
     <bendpoint x="389" y="2051"/>    
     <bendpoint x="389" y="2533"/>    
-    <end type="SOURCE" refId="17" navigable="false">      
-      <attribute id="148" name="tag"/>      
-      <multiplicity id="149" minimum="0" maximum="1"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="140" name="tag"/>      
+      <multiplicity id="141" minimum="0" maximum="1"/>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="150">    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="151" name="listaDeExercicios"/>      
-      <multiplicity id="152" minimum="0" maximum="1"/>    
+  <association id="142">    
+    <bendpoint x="1467" y="1688"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="143" name="questao"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
     </end>    
-    <end type="TARGET" refId="12" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="153">    
-    <end type="SOURCE" refId="19" navigable="false">      
-      <attribute id="154" name="listaQuestoes"/>      
-      <multiplicity id="155" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="10" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="156">    
-    <bendpoint x="706" y="2533"/>    
-    <end type="SOURCE" refId="8" navigable="false">      
-      <attribute id="157" name="tags"/>      
-      <multiplicity id="158" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="1" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="159">    
-    <end type="SOURCE" refId="12" navigable="false">      
-      <attribute id="160" name="propriedades"/>      
-      <multiplicity id="161" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="6" navigable="true"/>    
+    <end type="TARGET" refId="8" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
